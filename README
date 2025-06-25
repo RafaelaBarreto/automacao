@@ -1,0 +1,22 @@
+# 🤖 Automação de Redes e Tarefas de TI
+
+Olá! Meu nome é Rafaela e este repositório vai reunir meus estudos, anotações e scripts de automação com foco em redes e tarefas do dia a dia de TI.
+
+## 🌱 O que você vai encontrar aqui:
+- Scripts simples (em Bash, Python e PowerShell)
+- Anotações sobre protocolos de rede e troubleshooting
+- Ideias para automatizar tarefas repetitivas de suporte
+- Experimentos com ferramentas como nmap, ping, traceroute, etc.
+
+## 🎯 Objetivo
+Começar pequeno e evoluir com projetos reais de automação. Documentar minha jornada saindo do suporte técnico e entrando na análise de sistemas e QA funcional.
+
+## ✨ Em breve:
+- Script para testar conectividade de vários IPs
+- Coletor de dados de rede (gateway, DNS, ARP)
+- Checklist de boas práticas para scripts de TI
+
+---
+
+📌 *Este é só o começo. Se você curte redes, automação ou está migrando de suporte como eu, fique à vontade para acompanhar!*
+
