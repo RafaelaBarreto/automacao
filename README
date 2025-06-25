@@ -3,7 +3,7 @@
 Olá! Meu nome é Rafaela e este repositório vai reunir meus estudos, anotações e scripts de automação com foco em redes e tarefas do dia a dia de TI.
 
 ## 🌱 O que você vai encontrar aqui:
-- Scripts simples (em Bash, Python e PowerShell)
+- Scripts simples (PowerShell)
 - Anotações sobre protocolos de rede e troubleshooting
 - Ideias para automatizar tarefas repetitivas de suporte
 - Experimentos com ferramentas como nmap, ping, traceroute, etc.
