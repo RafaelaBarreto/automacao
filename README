@@ -20,3 +20,17 @@ Começar pequeno e evoluir com projetos reais de automação. Documentar minha j
 
 📌 *Este é só o começo. Se você curte redes, automação ou está migrando de suporte como eu, fique à vontade para acompanhar!*
 
+
+---
+
+
+## 🖥️ ping_alerta.ps1
+
+Script em PowerShell que testa a latência para um IP (ex: 8.8.8.8) e exibe um alerta caso o tempo de resposta seja maior que 100ms.
+
+### Como usar:
+- Salve o script no seu Windows
+- Clique com o botão direito e execute com PowerShell
+- Um alerta visual será exibido em caso de latência alta
+
+💡 Útil para monitoramento manual rápido de conexão!
